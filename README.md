@@ -1,5 +1,5 @@
 # Text_Summarization
-# Use Summarization Technique Abstractive over Extractive
+ Use Summarization Technique Abstractive over Extractive
 # Two types of summarization
 There are broadly two approaches to automatic text summarization: extractive and abstractive.
 
